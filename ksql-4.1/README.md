@@ -1,4 +1,4 @@
-# KSQL server
+# KSQL Docker
 
 This docker-compose will start the confluent platform (4.1.0), ksql server (4.1.0) and nginx as a reverse proxy for ksql through port 9098.
 
