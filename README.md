@@ -1,3 +1,3 @@
 # KSQL Docker
 
-Refer to README files inside the individual folders.
+Please refer to the README file inside the ksql-4.1 folder.
